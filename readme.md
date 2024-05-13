@@ -8,3 +8,4 @@ Concepts to review include:
 - links
   - absolute/relative
   - rel attribute (noopener, noreferrer)
+- lists
